@@ -23,8 +23,3 @@ htmlcov/
 .DS_Store
 .vscode/
 .idea/
-
-# Fichiers Docker & CI/CD
-Dockerfile
-docker-compose.yml
-.gitlab-ci.yml
